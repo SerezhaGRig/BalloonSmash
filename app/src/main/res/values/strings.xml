@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BalloonSmash</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="start">Start Game</string>
+    <string name="score_0">score:0</string>
+    <string name="no_record">No Rec</string>
+    <string name="play_but">play</string>
+    <string name="can_you">Can you score more than 1000 points?</string>
+    <string name="textview">TextView</string>
+</resources>
